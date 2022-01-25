@@ -1,0 +1,160 @@
+{
+  "Municipios" : {
+    "Ensenada" : {
+      "Libre" : {
+        "Dia" : {
+          "Bandera" : 30,
+          "Km" : 5,
+          "Min" : 1
+        },
+        "Noche" : {
+          "Bandera" : 40,
+          "Km" : 6,
+          "Min" : 2
+        }
+      },
+      "Sitio" : {
+        "Dia" : {
+          "Bandera" : 30,
+          "Km" : 5,
+          "Min" : 1
+        },
+        "Noche" : {
+          "Bandera" : 40,
+          "Km" : 6,
+          "Min" : 2
+        }
+      }
+    },
+    "Mexicali" : {
+      "Libre" : {
+        "Dia" : {
+          "Bandera" : 38,
+          "Km" : 5,
+          "Min" : 1
+        },
+        "Noche" : {
+          "Bandera" : 43,
+          "Km" : 6,
+          "Min" : 2
+        }
+      },
+      "Sitio" : {
+        "Dia" : {
+          "Bandera" : 50,
+          "Km" : 5,
+          "Min" : 1
+        },
+        "Noche" : {
+          "Bandera" : 100,
+          "Km" : 10,
+          "Min" : 1
+        }
+      }
+    },
+    "Rosarito" : {
+      "Libre" : {
+        "Dia" : {
+          "Bandera" : 30,
+          "Km" : 6,
+          "Min" : 2
+        },
+        "Noche" : {
+          "Bandera" : 40,
+          "Km" : 7,
+          "Min" : 3
+        }
+      },
+      "Sitio" : {
+        "Dia" : {
+          "Bandera" : 30,
+          "Km" : 6,
+          "Min" : 2
+        },
+        "Noche" : {
+          "Bandera" : 40,
+          "Km" : 7,
+          "Min" : 3
+        }
+      }
+    },
+    "San_Quintin" : {
+      "Libre" : {
+        "Dia" : {
+          "Bandera" : 25,
+          "Km" : 2,
+          "Min" : 1
+        },
+        "Noche" : {
+          "Bandera" : 30,
+          "Km" : 5,
+          "Min" : 1
+        }
+      },
+      "Sitio" : {
+        "Dia" : {
+          "Bandera" : 50,
+          "Km" : 4,
+          "Min" : 1
+        },
+        "Noche" : {
+          "Bandera" : 60,
+          "Km" : 10,
+          "Min" : 1
+        }
+      }
+    },
+    "Tecate" : {
+      "Libre" : {
+        "Dia" : {
+          "Bandera" : 35,
+          "Km" : 2,
+          "Min" : 1
+        },
+        "Noche" : {
+          "Bandera" : 40,
+          "Km" : 3,
+          "Min" : 2
+        }
+      },
+      "Sitio" : {
+        "Dia" : {
+          "Bandera" : 45,
+          "Km" : 5,
+          "Min" : 3
+        },
+        "Noche" : {
+          "Bandera" : 60,
+          "Km" : 7,
+          "Min" : 5
+        }
+      }
+    },
+    "Tijuana" : {
+      "Libre" : {
+        "Dia" : {
+          "Bandera" : 38,
+          "Km" : 5,
+          "Min" : 1
+        },
+        "Noche" : {
+          "Bandera" : 43,
+          "Km" : 6,
+          "Min" : 2
+        }
+      },
+      "Sitio" : {
+        "Dia" : {
+          "Bandera" : 50,
+          "Km" : 6,
+          "Min" : 2
+        },
+        "Noche" : {
+          "Bandera" : 56,
+          "Km" : 8,
+          "Min" : 3
+        }
+      }
+    }
+  }
+}
